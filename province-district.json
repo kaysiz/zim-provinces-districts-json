@@ -1,0 +1,145 @@
+{
+  "Provinces":
+  [
+    {
+      "Code": "BYO",
+      "Districts":
+      [
+        {"Code": "Khami", "DistrictName": "Khami"},
+        {"Code": "Reigate", "DistrictName": "Reigate"},
+        {"Code": "Bulawayo_Central", "DistrictName": "Bulawayo Central"},
+        {"Code": "Mzilikhazi", "DistrictName": "Mzilikhazi"},
+        {"Code": "Mbizo", "DistrictName": "Mbizo"}
+      ],
+      "ProvinceName": "Bulawayo"
+    },
+    {
+      "Code": "HRE",
+      "Districts":
+      [
+        {"Code": "Chitungwiza", "DistrictName": "Chitungwiza"},
+        {"Code": "Highfield-Glennorah", "DistrictName": "Highfield/Glennorah"},
+        {"Code": "Glenview-Mufakose", "DistrictName": "Glenview/Mufakose"},
+        {"Code": "Warren_Park-Mabelreign", "DistrictName": "Warren Park/Mabelreign"},
+        {"Code": "Northern_Central", "DistrictName": "Northern_Central"},
+        {"Code": "Epworth-Mabvuku-Tafara", "DistrictName": "Epworth/Mabvuku/Tafara"},
+        {"Code": "Mbare-Hatfield", "DistrictName": "Mbare/Hatfield"}
+      ],
+      "ProvinceName": "Harare"
+    },
+    {
+      "Code": "ML",
+      "Districts":
+      [
+        {"Code": "Buhera", "DistrictName": "Buhera"},
+        {"Code": "Chimanimani", "DistrictName": "Chimanimani"},
+        {"Code": "Chipinge", "DistrictName": "Chipinge"},
+        {"Code": "Makoni", "DistrictName": "Makoni"},
+        {"Code": "Mutare", "DistrictName": "Mutare"},
+        {"Code": "Mutasa", "DistrictName": "Mutasa"},
+        {"Code": "Nyanga", "DistrictName": "Nyanga"}
+      ],
+      "ProvinceName": "Manicaland"
+    },
+    {
+      "Code": "MC",
+      "Districts":
+      [
+        {"Code": "Bindura", "DistrictName": "Bindura"},
+        {"Code": "Guruve", "DistrictName": "Guruve"},
+        {"Code": "Mazowe", "DistrictName": "Mazowe"},
+        {"Code": "Mbire", "DistrictName": "Mbire"},
+        {"Code": "Mukumbura", "DistrictName": "Mukumbura"},
+        {"Code": "Muzarabani", "DistrictName": "Muzarabani"},
+        {"Code": "Rushinga", "DistrictName": "Rushinga"}
+      ],
+      "ProvinceName": "Mashonaland Central"
+    },
+    {
+      "Code": "ME",
+      "Districts":
+      [
+        {"Code": "Chikomba", "DistrictName": "Chikomba"},
+        {"Code": "Goromonzi", "DistrictName": "Goromonzi"},
+        {"Code": "Hwedza", "DistrictName": "Hwedza"},
+        {"Code": "Marondera", "DistrictName": "Marondera"},
+        {"Code": "Mudzi", "DistrictName": "Mudzi"},
+        {"Code": "Murehwa", "DistrictName": "Murehwa"},
+        {"Code": "Mutoko", "DistrictName": "Mutoko"},
+        {"Code": "Seke", "DistrictName": "Seke"},
+        {"Code": "Uzumba_Maramba_Pfungwe", "DistrictName": "Uzumba-Maramba-Pfungwe"}
+      ],
+      "ProvinceName": "Mashonaland East"
+    },
+    {
+      "Code": "MW",
+      "Districts":
+      [
+        {"Code": "Makonde", "DistrictName": "Makonde"},
+        {"Code": "Sanyati", "DistrictName": "Sanyati"},
+        {"Code": "Zvimba", "DistrictName": "Zvimba"},
+        {"Code": "Chegutu", "DistrictName": "Chegutu"},
+        {"Code": "Mhondoro_Ngezi", "DistrictName": "Mhondoro Ngezi"},
+        {"Code": "Kariba", "DistrictName": "Kariba"},
+        {"Code": "Hurungwe", "DistrictName": "Hurungwe"}
+      ],
+      "ProvinceName": "Mashonaland West"
+    },
+    {
+      "Code": "MV",
+      "Districts":
+      [
+        {"Code": "Bikita", "DistrictName": "Bikita"},
+        {"Code": "Chiredzi", "DistrictName": "Chiredzi"},
+        {"Code": "Chivi", "DistrictName": "Chivi"},
+        {"Code": "Gutu", "DistrictName": "Gutu"},
+        {"Code": "Masvingo", "DistrictName": "Masvingo"},
+        {"Code": "Mwenezi", "DistrictName": "Mwenezi"},
+        {"Code": "Zaka", "DistrictName": "Zaka"}
+      ],
+      "ProvinceName": "Masvingo"
+    },
+    {
+      "Code": "MN",
+      "Districts":
+      [
+        {"Code": "Binga", "DistrictName": "Binga"},
+        {"Code": "Bubi", "DistrictName": "Bubi"},
+        {"Code": "Hwange", "DistrictName": "Hwange"},
+        {"Code": "Lupane", "DistrictName": "Lupane"},
+        {"Code": "Nkayi", "DistrictName": "Nkayi"},
+        {"Code": "Tsholotsho", "DistrictName": "Tsholotsho"},
+        {"Code": "Umguza", "DistrictName": "Umguza"}
+      ],
+      "ProvinceName": "Matabeleland North"
+    },
+    {
+      "Code": "MS",
+      "Districts":
+      [
+        {"Code": "Beitbridge", "DistrictName": "Beitbridge"},
+        {"Code": "Bulilimamangwe", "DistrictName": "Bulilimamangwe"},
+        {"Code": "Gwanda", "DistrictName": "Gwanda"},
+        {"Code": "Insiza", "DistrictName": "Insoza"},
+        {"Code": "Matobo", "DistrictName": "Matobo"},
+        {"Code": "Umzingwane", "DistrictName": "Umzingwane"}
+      ],
+      "ProvinceName": "Matabeleland South"
+    },
+    {
+      "Code": "MD",
+      "Districts":
+      [
+        {"Code": "Chirumhanzi", "DistrictName": "Chirumhanzi"},
+        {"Code": "Gokwe_North", "DistrictName": "Gokwe North"},
+        {"Code": "Gokwe_South", "DistrictName": "Gokwe South"},
+        {"Code": "Gweru", "DistrictName": "Gweru"},
+        {"Code": "Kwekwe", "DistrictName": "Kwekwe"},
+        {"Code": "Mberengwa", "DistrictName": "Mberengwa"},
+        {"Code": "Shurugwi", "DistrictName": "Shurugwi"},
+        {"Code": "Zvishavane", "DistrictName": "Zvishavane"}
+      ],
+      "ProvinceName": "Midlands"
+    }
+  ]
+}
